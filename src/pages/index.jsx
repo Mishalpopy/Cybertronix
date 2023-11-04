@@ -7,7 +7,7 @@ import HomeFour from "../components/homes/home-4";
 const Home = () => {
   return (
     <Wrapper>
-      <SEO pageTitle={"Softec - Data analytics"} />
+      <SEO pageTitle={"Cybertronix - Solutions"} />
       <HomeFour />
     </Wrapper>
   );
